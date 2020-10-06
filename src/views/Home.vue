@@ -1,9 +1,13 @@
 <template>
   <div class="home">
-    <pre>{{ $config }}</pre>
+    Open your console!
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+  created() {
+    console.log(this.$config);
+  },
+};
 </script>
