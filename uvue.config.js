@@ -9,6 +9,6 @@ export default {
     ],
     '@uvue/core/plugins/middlewares',
     '@uvue/core/plugins/errorHandler',
-    '@/plugins/config',
+    '@/runtimeConfig',
   ],
 };
