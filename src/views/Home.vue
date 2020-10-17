@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <!-- <pre>{{ $config }}</pre> -->
+    Open your console!
   </div>
 </template>
 
